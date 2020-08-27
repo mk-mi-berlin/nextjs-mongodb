@@ -6,7 +6,7 @@ export default function MyApp({ Component, pageProps }) {
   return (
     <Layout>
       <Head>
-        <title>Next.js + MongoDB App</title>
+        <title>Next.js + MongoDB App modified by mk</title>
       </Head>
       <Component {...pageProps} />
     </Layout>
