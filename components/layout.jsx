@@ -122,7 +122,7 @@ export default ({ children }) => {
         `}
       </style>
       <Head>
-        <title>Next.js + MongoDB App</title>
+        <title>Next.js + MongoDB App modified by mk</title>
         <meta
           key="viewport"
           name="viewport"
