@@ -143,15 +143,17 @@ export default ({ children }) => {
         />
       </Head>
       <header>
+      <div>
+            <img src="/Vivantes-logo.svg.small.png" height="50"/>
+        </div>
         <nav>
+        
           <Link href="/">
             <a>
-              <h1>Next.js + MongoDB App modified by mk</h1>
+              <h1>Vivantes Secret Message Board</h1>
             </a>
           </Link>
-          <div>
-            <img src="/Vivantes-logo.svg.small.png"/>
-          </div>
+          
           <div>
             {!user ? (
               <>
