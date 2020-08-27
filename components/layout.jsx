@@ -146,7 +146,7 @@ export default ({ children }) => {
         <nav>
           <Link href="/">
             <a>
-              <h1>Next.js + MongoDB App</h1>
+              <h1>Next.js + MongoDB App modified by mk</h1>
             </a>
           </Link>
           <div>
