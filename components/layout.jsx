@@ -150,6 +150,9 @@ export default ({ children }) => {
             </a>
           </Link>
           <div>
+            <img src="/Vivantes-logo.svg.small.png"/>
+          </div>
+          <div>
             {!user ? (
               <>
                 <Link href="/login">
